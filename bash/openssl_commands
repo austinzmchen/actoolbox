@@ -1,0 +1,2 @@
+## view .mobileprovision file
+openssl smime -inform der -verify -noverify -in file.mobileprovision
